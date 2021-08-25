@@ -1,3 +1,8 @@
+---
+permalink: /setup
+---
+
+
 ## Setup BASS-Device
 ### 0. Settings
 Einstellungs-Symbol unten in die Mitte ziehen (for convenience).
