@@ -30,6 +30,7 @@ Einstellungs-Symbol unten in die Mitte ziehen (for convenience).
 * kuko-buero einrichten
 * k1 einrichten:
 	*  für das Passwort QR Code scannen
+
 ### 2. Apps installieren
 Dafür Browser öffnen, QR-Codes scannen und heruntergeladene Datei öffnen.
 * NextTracks (für die Ortung der Geräte)
@@ -38,6 +39,7 @@ Dafür Browser öffnen, QR-Codes scannen und heruntergeladene Datei öffnen.
 * BASS-Apps: **Auf die Passung von Gerät und App achten!** Es gibt Versionen für SD55 (Speeddata), EA502, L2S
 	* Bass-create 1.1.0 (für die Codes auf den Papierbändchen).
 	* Bass-basic 1.1.0 (für das Auslesen der Ergebnisse auf den NFCs)
+
 ### 3. Apps einrichten
 * NextTracks
 	* in der App Einstellungen öffnen -> Verbindung
