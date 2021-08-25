@@ -26,6 +26,7 @@ Einstellungs-Symbol unten in die Mitte ziehen (for convenience).
 * Sicherheit und Standort
 	* Standort: An
 	* Modus Hohe Genauigkeit
+
 ### 1. WiFi
 * kuko-buero einrichten
 * k1 einrichten:
