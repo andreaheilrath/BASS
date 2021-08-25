@@ -1,3 +1,7 @@
+---
+permalink: /troubleshoot
+---
+
 ## Troubleshoot BASS-Devices
 
 ### Allgemeines
