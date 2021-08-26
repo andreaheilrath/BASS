@@ -1,0 +1,5 @@
+---
+permalink: /general
+---
+
+## Allgemeine Infos
